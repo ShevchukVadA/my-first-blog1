@@ -25,7 +25,7 @@ SECRET_KEY = 'm_(g)l_9*!&zc*k35#c-wuchko14onkkk1gf@eaz-g%*bu$&90'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['/home/ShevchukVladA/my-first-blog1']
 
 
 # Application definition
